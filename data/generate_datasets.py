@@ -109,4 +109,4 @@ def make_gravitational_waves(
 
 if __name__ == '__main__':
     pontos, labels = make_point_clouds(10, 10, .1)
-    print(">>>", pontos, labels)
+    print(pontos)
